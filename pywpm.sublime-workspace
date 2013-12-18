@@ -1,0 +1,213 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"down",
+				"downfile_dir"
+			],
+			[
+				"do",
+				"downfile_dir"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"help",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/programs/goagent/local/proxy.ini",
+		"/C/Dev/Python/fanfou/templates/download.html",
+		"/C/Dev/Python/fanfou/fanfou.sublime-project",
+		"/C/Users/胡杨/Dropbox/Python/phyng.github.io/_layouts/index.html",
+		"/C/Users/胡杨/Dropbox/Python/phyng.github.io/_includes/links.html",
+		"/C/Users/胡杨/Dropbox/Python/phyng.github.io/_includes/pages.html",
+		"/C/Users/胡杨/Dropbox/Python/phyng.github.io/_includes/share.html",
+		"/C/Users/胡杨/Dropbox/Python/phyng.github.io/_includes/signoff.html",
+		"/C/Users/胡杨/Dropbox/Python/phyng.github.io/_includes/disqus.html",
+		"/C/Users/胡杨/Dropbox/Python/phyng.github.io/_includes/footer.html",
+		"/C/Users/胡杨/Dropbox/Python/phyng.github.io/_posts/2013-12-10-how-to-use-python-read-cpu-temp-windows.md",
+		"/C/Users/胡杨/Dropbox/Python/phyng.github.io/_posts/2013-12-06-import-google-calendar.md",
+		"/C/Users/胡杨/Dropbox/Python/phyng.github.io/about.md",
+		"/C/Users/胡杨/Dropbox/Python/html/test.html",
+		"/C/Users/胡杨/Dropbox/Python/phyng.github.io/_posts/2013-12-04-start-blog.md",
+		"/C/Users/胡杨/Dropbox/Python/phyng.github.io/_config.yml",
+		"/C/Users/胡杨/Dropbox/Python/phyng.github.io/_includes/header.html",
+		"/C/Users/胡杨/Dropbox/Python/phyng.github.io/_layouts/post.html",
+		"/C/Users/胡杨/Dropbox/Python/phyng.github.io/_layouts/page.html",
+		"/C/Users/胡杨/Dropbox/Python/phyng.github.io/_includes/head.html",
+		"/C/Users/胡杨/Dropbox/Python/phyng.github.io/_includes/ga.html",
+		"/C/Users/胡杨/Dropbox/Python/phyng.github.io/_posts/2013-12-10-install-git-ruby-jekyll.md",
+		"/C/Users/胡杨/Dropbox/Python/cputemp/cpu2.py",
+		"/C/Users/胡杨/Dropbox/Python/cputemp/cputemp.py",
+		"/C/Users/胡杨/Dropbox/Python/cputemp/cpu.py",
+		"/C/Users/胡杨/Dropbox/Python/cputemp/py.reg",
+		"/C/programs/Sublime/Data/Packages/User/sftp_servers/sftp-config.json",
+		"/C/Users/胡杨/Dropbox/Python/fanfou/index.html",
+		"/C/users/胡杨/appdata/local/temp/sublime-sftp-browse-1386652712/sftp-config.json/home/jnhy/doubansite/doubansite/doubansite.py",
+		"/C/programs/Sublime/Data/Packages/SFTP/SFTP.sublime-settings",
+		"/C/Users/胡杨/Documents/python/test.py"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"downlowd",
+			"Jnhy",
+			"26",
+			"2.6",
+			"hello",
+			">\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"download",
+			"Phyng",
+			"27",
+			"2.7"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"output.sftp":
+	{
+		"height": 118.0
+	},
+	"project": "pywpm.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 188.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
